@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+langchain
+faiss-cpu
+sentence-transformers
+pandas
+numpy
+matplotlib
+plotly
+requests
+yfinance
+alpha_vantage
+financialmodelingprep
+reportlab
+python-dotenv
